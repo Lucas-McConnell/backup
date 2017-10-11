@@ -1,0 +1,71 @@
+\BOOKMARK [0][-]{chapter.1}{Theoretical Overview}{}% 1
+\BOOKMARK [1][-]{section.1.1}{The Standard Model of Particle Physics}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Electroweak Unification}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Electroweak Symmetry Breaking}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Introduction to Same-Sign W-boson Scattering}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{WW Scattering Cross-Section}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{The Large Hadron Collider}{}% 7
+\BOOKMARK [0][-]{chapter.3}{The ATLAS Detector}{}% 8
+\BOOKMARK [1][-]{section.3.1}{Overview}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.2}{The Inner Detector}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.3}{Calorimetry}{chapter.3}% 11
+\BOOKMARK [2][-]{subsection.3.3.1}{Overview}{section.3.3}% 12
+\BOOKMARK [2][-]{subsection.3.3.2}{LAr Electromagnetic Calorimeter}{section.3.3}% 13
+\BOOKMARK [2][-]{subsection.3.3.3}{Hadronic Calorimeters}{section.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.3.1}{Tile Calorimeter}{subsection.3.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.3.2}{LAr Hadronic End-Cap Calorimeter}{subsection.3.3.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.3.3.3}{LAr Forward Calorimeter}{subsection.3.3.3}% 17
+\BOOKMARK [1][-]{section.3.4}{Muon Spectrometer}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.5}{Forward Detectors}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.6}{Trigger System}{chapter.3}% 20
+\BOOKMARK [0][-]{chapter.4}{Reconstruction and Identification of Physics Objects}{}% 21
+\BOOKMARK [1][-]{section.4.1}{Charged Particles in the Inner Detector}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.2}{Muons}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.3}{Electrons and Photons}{chapter.4}% 24
+\BOOKMARK [2][-]{subsection.4.3.1}{Electrons}{section.4.3}% 25
+\BOOKMARK [2][-]{subsection.4.3.2}{Photons}{section.4.3}% 26
+\BOOKMARK [1][-]{section.4.4}{Jets}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.5}{Missing Transverse Energy}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.6}{b-jet Tagging}{chapter.4}% 29
+\BOOKMARK [2][-]{subsection.4.6.1}{Basic b-Tagging Algorithms}{section.4.6}% 30
+\BOOKMARK [3][-]{subsubsection.4.6.1.1}{Track Selection}{subsection.4.6.1}% 31
+\BOOKMARK [3][-]{subsubsection.4.6.1.2}{Impact Parameter Based Algorithm}{subsection.4.6.1}% 32
+\BOOKMARK [3][-]{subsubsection.4.6.1.3}{Secondary Vertex Finding Algorithm}{subsection.4.6.1}% 33
+\BOOKMARK [3][-]{subsubsection.4.6.1.4}{Decay Chain Multi-Vertex Algorithm: JetFitter}{subsection.4.6.1}% 34
+\BOOKMARK [2][-]{subsection.4.6.2}{Multivariate Algorithm}{section.4.6}% 35
+\BOOKMARK [1][-]{section.4.7}{Isolation}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.7.1}{Calorimetric Isolation}{section.4.7}% 37
+\BOOKMARK [2][-]{subsection.4.7.2}{Track Isolation}{section.4.7}% 38
+\BOOKMARK [2][-]{subsection.4.7.3}{The ATLAS Isolation Selection Tool Working Points}{section.4.7}% 39
+\BOOKMARK [0][-]{chapter.5}{Monte Carlo Simulation}{}% 40
+\BOOKMARK [1][-]{section.5.1}{Event Generators}{chapter.5}% 41
+\BOOKMARK [2][-]{subsection.5.1.1}{The Hard Process}{section.5.1}% 42
+\BOOKMARK [2][-]{subsection.5.1.2}{Higher-Order Effects}{section.5.1}% 43
+\BOOKMARK [3][-]{subsubsection.5.1.2.1}{Parton Shower}{subsection.5.1.2}% 44
+\BOOKMARK [3][-]{subsubsection.5.1.2.2}{Hadronisation}{subsection.5.1.2}% 45
+\BOOKMARK [3][-]{subsubsection.5.1.2.3}{Hadron and -Lepton Decays}{subsection.5.1.2}% 46
+\BOOKMARK [3][-]{subsubsection.5.1.2.4}{QED Radiation}{subsection.5.1.2}% 47
+\BOOKMARK [3][-]{subsubsection.5.1.2.5}{Underlying Event}{subsection.5.1.2}% 48
+\BOOKMARK [1][-]{section.5.2}{GEANT4: A Detector Simulator}{chapter.5}% 49
+\BOOKMARK [1][-]{section.5.3}{Simulation of the ATLAS Detector}{chapter.5}% 50
+\BOOKMARK [0][-]{chapter.6}{Same-Sign W-boson Scattering Analysis}{}% 51
+\BOOKMARK [1][-]{section.6.1}{Overview of Background Contributions}{chapter.6}% 52
+\BOOKMARK [1][-]{section.6.2}{Object Selection}{chapter.6}% 53
+\BOOKMARK [2][-]{subsection.6.2.1}{Triggers}{section.6.2}% 54
+\BOOKMARK [2][-]{subsection.6.2.2}{Muons}{section.6.2}% 55
+\BOOKMARK [2][-]{subsection.6.2.3}{Electrons}{section.6.2}% 56
+\BOOKMARK [2][-]{subsection.6.2.4}{Jets}{section.6.2}% 57
+\BOOKMARK [2][-]{subsection.6.2.5}{Overlap Removal}{section.6.2}% 58
+\BOOKMARK [1][-]{section.6.3}{Event Selection}{chapter.6}% 59
+\BOOKMARK [1][-]{section.6.4}{Fake Lepton Background}{chapter.6}% 60
+\BOOKMARK [0][-]{chapter.7}{Suppressing the Fake Lepton Background}{}% 61
+\BOOKMARK [1][-]{section.7.1}{Statistical Significance in Particle Physics}{chapter.7}% 62
+\BOOKMARK [1][-]{section.7.2}{Optimising the b-jet Veto}{chapter.7}% 63
+\BOOKMARK [1][-]{section.7.3}{Optimising the Isolation Requirements for Lepton Candidates}{chapter.7}% 64
+\BOOKMARK [2][-]{subsection.7.3.1}{The Cumulative Significance}{section.7.3}% 65
+\BOOKMARK [2][-]{subsection.7.3.2}{Determining the Optimal Isolation Selection Criteria}{section.7.3}% 66
+\BOOKMARK [1][-]{section.7.4}{Using the Cumulative Significance to Optimise Other Analysis Cuts}{chapter.7}% 67
+\BOOKMARK [0][-]{chapter.8}{Conclusion}{}% 68
+\BOOKMARK [0][-]{appendix.A}{Gauge Theories}{}% 69
+\BOOKMARK [0][-]{appendix.B}{Plots of the Isolation Variables}{}% 70
+\BOOKMARK [0][-]{appendix.C}{Additional Comparison Plots}{}% 71

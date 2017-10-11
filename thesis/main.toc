@@ -1,0 +1,143 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Theoretical Overview}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}The Standard Model of Particle Physics}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Electroweak Unification}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Electroweak Symmetry Breaking}{4}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Introduction to Same-Sign W-boson Scattering}{7}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}$W^{\pm }W^{\pm }$ Scattering Cross-Section}{12}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}The Large Hadron Collider}{16}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}The ATLAS Detector}{19}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Overview}{19}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}The Inner Detector}{21}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Calorimetry}{24}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Overview}{24}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}LAr Electromagnetic Calorimeter}{24}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}Hadronic Calorimeters}{25}{subsection.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3.1}Tile Calorimeter}{25}{subsubsection.3.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3.2}LAr Hadronic End-Cap Calorimeter}{28}{subsubsection.3.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3.3}LAr Forward Calorimeter}{28}{subsubsection.3.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Muon Spectrometer}{28}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Forward Detectors}{29}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Trigger System}{29}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Reconstruction and Identification of Physics Objects}{31}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Charged Particles in the Inner Detector}{31}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Muons}{32}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Electrons and Photons}{33}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Electrons}{33}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Photons}{34}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Jets}{34}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Missing Transverse Energy}{36}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}$b$-jet Tagging}{38}{section.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.1}Basic $b$-Tagging Algorithms}{38}{subsection.4.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.6.1.1}Track Selection}{38}{subsubsection.4.6.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.6.1.2}Impact Parameter Based Algorithm}{39}{subsubsection.4.6.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.6.1.3}Secondary Vertex Finding Algorithm}{39}{subsubsection.4.6.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.6.1.4}Decay Chain Multi-Vertex Algorithm: JetFitter}{39}{subsubsection.4.6.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.2}Multivariate Algorithm}{40}{subsection.4.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.7}Isolation}{40}{section.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.1}Calorimetric Isolation}{41}{subsection.4.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.2}Track Isolation}{42}{subsection.4.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7.3}The ATLAS Isolation Selection Tool Working Points}{43}{subsection.4.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Monte Carlo Simulation}{46}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Event Generators}{46}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}The Hard Process}{47}{subsection.5.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Higher-Order Effects}{49}{subsection.5.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2.1}Parton Shower}{49}{subsubsection.5.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2.2}Hadronisation}{49}{subsubsection.5.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2.3}Hadron and $\uptau $-Lepton Decays}{51}{subsubsection.5.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2.4}QED Radiation}{51}{subsubsection.5.1.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2.5}Underlying Event}{51}{subsubsection.5.1.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}GEANT4: A Detector Simulator}{51}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Simulation of the ATLAS Detector}{53}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Same-Sign W-boson Scattering Analysis}{55}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Overview of Background Contributions}{55}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Object Selection}{56}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Triggers}{57}{subsection.6.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}Muons}{57}{subsection.6.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.3}Electrons}{58}{subsection.6.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.4}Jets}{58}{subsection.6.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.5}Overlap Removal}{59}{subsection.6.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Event Selection}{59}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Fake Lepton Background}{60}{section.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Suppressing the Fake Lepton Background}{62}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Statistical Significance in Particle Physics}{62}{section.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Optimising the $b$-jet Veto}{63}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Optimising the Isolation Requirements for Lepton Candidates}{68}{section.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3.1}The Cumulative Significance}{68}{subsection.7.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3.2}Determining the Optimal Isolation Selection Criteria}{69}{subsection.7.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}Using the Cumulative Significance to Optimise Other Analysis Cuts}{77}{section.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Conclusion}{83}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Gauge Theories}{85}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}Plots of the Isolation Variables}{88}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {C}Additional Comparison Plots}{114}{appendix.C}

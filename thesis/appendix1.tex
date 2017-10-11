@@ -1,0 +1,81 @@
+\chapter{Gauge Theories}
+\label{appendix1}
+This section is adapted from \cite{griffiths}.
+
+The Lagrangian formulation of classical mechanics has at its core the \emph{Euler-Lagrange} equations:
+\begin{equation}
+\frac{d}{dt} \left( \frac{\partial \mathcal{L}}{\partial \dot{q_{j}}} \right) = \frac{\partial \mathcal{L}}{\partial q_{j}} \ \ \ \ \ \ \ \ \ \ \ \ (j=1,2,3,...),
+\end{equation}
+where $ \mathcal{L} = T - U$, $T$ is the kinetic energy of the particle, $U$ is a scalar potential energy, and $q_{j}$ are the generalised coordinates.
+
+In relativistic field theory space and time must be treated equally and the Euler-Lagrange equations generalise to:
+\begin{equation}
+\partial _{\mu} \left( \frac{\partial \mathcal{L}}{\partial \left( \partial_{\mu} \phi_{i} \right)} \right) = \frac{\partial \mathcal{L}}{\partial \phi_{i}} \ \ \ \ \ \ \ \ \ \ \ \ (i=1,2,3,...),
+\end{equation}
+where $\phi _{i}$ are the field variables which are now functions of space and time.
+
+The Lagrangian in relativistic field theories is usually taken to be axiomatic, in contrast to how it is usually derived classically. As an example consider the \emph{Dirac Lagrangian}:
+\begin{equation}
+\mathcal{L} = i \bar{\psi} \gamma _{\mu} \partial_{\mu} \psi - m \bar{\psi} \psi,
+\end{equation}
+where $\psi$ is a spinor field, $\bar{\psi}$ its adjoint, and $\gamma ^{\mu}$ the gamma matrices. Inserting this into the generalised Euler-Lagrange equations produces the \emph{Dirac equation}, which describes a massive spin-1/2 particle. Note that the Dirac Lagrangian is invariant under what is called a \emph{global phase transformation}: 
+\begin{equation}
+\psi \longrightarrow e^{i \theta} \psi,
+\label{gpt}
+\end{equation}
+where the phase factor $\theta \in \mathbb{R}$. However if the phase factor in the transformation is given spatial dependence:
+\begin{equation}
+ \psi \longrightarrow e^{i \theta (x)} \psi,
+\end{equation} 
+in what is called now called a \emph{local phase transformation}, then the Lagrangian is no longer invariant since:
+$$
+\partial_{\mu} \left( e^{i \theta (x)} \psi \right) = i \left( \partial_{\mu} \theta(x) \right) e^{i \theta(x)} \psi + e^{i \theta (x)}\partial_{\mu} \psi.
+$$
+Defining now: 
+\begin{equation}
+\lambda (x) = - \frac{\theta(x)}{q},
+\end{equation}
+where q is the charge of the particle in question, then the local phase transformation becomes:
+\begin{equation}
+\psi \longrightarrow e^{-iq\lambda (x)}\psi,
+\end{equation}
+and the Lagrangian gains an extra term when subjected to a local phase transformation:
+\begin{equation}
+\mathcal{L} \longrightarrow \mathcal{L} + \left( q \bar{\psi}\gamma^{\mu} \psi \right) \partial_{\mu}\lambda
+\end{equation}
+Introduce the vector field $A_{\mu}$ that transforms under a local phase transformation according to:
+\begin{equation}
+A_{\mu} \longrightarrow A_{\mu} + \partial_{\mu} \lambda.
+\label{vf lpt}
+\end{equation}
+The Dirac Lagrangian can thus be modified to be invariant under a local phase transformation by adding a term:
+\begin{equation}
+\mathcal{L} = \left[ i \bar{\psi} \gamma^{\mu} \partial_{\mu} \psi - m \bar{\psi} \psi \right] - \left( q \bar{\psi} \gamma^{\mu} \psi \right) A_{\mu}.
+\end{equation}
+The last term has the interpretation of the vector field $A_{\mu}$ coupling to the field $\psi$. The full Lagrangian should also contain a free term for $A_{\mu}$. Comparing to the Proca Lagrangian\footnote{When entered into the Euler-Lagrange equations, the Proca Lagrangian yields the Proca equation (which describes a massive particle of spin-1).}:
+\begin{equation}
+\mathcal{L} = \frac{-1}{16 \pi} F^{\mu \nu} F_{\mu \nu} + \frac{1}{8 \pi} \left( m_{A} \right)^{2} A^{\nu} A_{\nu},
+\end{equation}
+where $m_{A}$ is the mass of the vector field and 
+\begin{equation}
+F^{\mu \nu} = \left( \partial^{\mu} A^{\nu} - \partial^{\nu} A^{\mu} \right).
+\end{equation}
+$F{\mu \nu}$ is the field strength tensor and it is invariant under a local phase transformation, however $A^{\nu}A_{\nu}$ isn't unless $m_{A} = 0$. Thus in order for the free term to be invariant under a local phase transformation, the vector field must be massless. If this is interpreted in the context of electrodynamics then $A^{\mu}$ is the electromagnetic potential and equations \ref{gpt} and \ref{vf lpt} are gauge transformations analogous to the ones found in classical electrodynamics. Additionally, in this context, vector fields such as $A^{\mu}$ are commonly referred to as gauge fields.
+
+The local phase invariance can be regained by replacing the derivatives $\partial_{\mu}$ with so-called \emph{covariant derivatives}:
+\begin{equation}
+D_{\mu} \equiv \partial_{\mu} + iqA_{\mu},
+\end{equation}
+as this will cancel the extra term introduced in equation \ref{vf lpt} such that:
+\begin{equation}
+D_{\mu} \psi \longrightarrow e^{iq \lambda} D_{\mu} \psi,
+\end{equation}
+and the Lagrangian will now be local phase invariant.
+
+The gauge transformations can be thought of as multiplication of the field $\psi$ by a unitary $1 \times 1$ matrix:
+\begin{equation}
+\psi \longrightarrow U \psi,
+\end{equation}
+where $ U = e^{i \theta}$. This Quantum Field Theory (QFT) is an example of what is commonly referred to as a \emph{gauge theory}. Gauge theories are a special class of QFTs that are closely associated with a particular symmetry group. In the case here the symmetry group is $\mathbf{U}(1)$. Such symmetry groups can be either abelian (as is the case here) or non-abelian.\footnote{Gauge theories that are associated with non-abelian symmetry groups are commonly referred to as Yang-Mills theories; e.g. in QCD the symmetry group is the non-abelian $SU(3)$, as such QCD is a Yang-Mills theory.}
+
+The field variables in a Standard Model gauge theory are interpreted as being quantised, with the quanta of the fields being particles. Hence, the quantum of the electromagnetic field $A^{\mu}$ is the photon, leptons and quarks are associated with Dirac fields, gluons are the quanta of the eight $\mathbf{SU}(3)$ gauge fields of QCD, and the W and Z bosons are the quanta of associated Proca fields. In particular, the quanta of the gauge fields are the gauge bosons; spin-1 particles which mediate the interaction associated with their field.

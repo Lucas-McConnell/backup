@@ -1,0 +1,3024 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{mann}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mann}{M.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Taylor \& Francis}%
+  }
+  \strng{namehash}{MR1}
+  \strng{fullhash}{MR1}
+  \field{isbn}{9781439887608}
+  \field{title}{Introduction to Particle Physics and the Standard Model}
+  \field{year}{2011}
+\endentry
+
+\entry{griffiths}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Griffiths}{G.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley}%
+  }
+  \strng{namehash}{GD1}
+  \strng{fullhash}{GD1}
+  \field{isbn}{9783527406012}
+  \field{title}{Introduction to Elementary Particles}
+  \field{year}{2008}
+\endentry
+
+\entry{sood}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sood}{S.}%
+     {Alexander}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SA2}
+  \strng{fullhash}{SA2}
+  \verb{url}
+  \verb https://inspirehep.net/record/1339738/files/CERN-THESIS-2014-208.pdf
+  \endverb
+  \list{institution}{1}{%
+    {UC, Berkeley}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2014-12-19}
+\endentry
+
+\entry{SM1}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Glashow}{G.}%
+     {S.~L.}{S.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GSL1}
+  \strng{fullhash}{GSL1}
+  \field{pages}{579}
+  \field{volume}{\textbf{22}}
+  \field{journaltitle}{Nucl. Phys.}
+  \field{year}{1961}
+\endentry
+
+\entry{SM2}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Weinberg}{W.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WS1}
+  \strng{fullhash}{WS1}
+  \field{pages}{1264}
+  \field{volume}{\textbf{19}}
+  \field{journaltitle}{Phys. Rev. Lett.}
+  \field{year}{1967}
+\endentry
+
+\entry{SM3}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Salam}{S.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SA1}
+  \strng{fullhash}{SA1}
+  \field{pages}{367}
+  \field{volume}{\textbf{680519}}
+  \field{journaltitle}{Conf. Proc. C}
+  \field{year}{1968}
+\endentry
+
+\entry{SM4}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Guralnik}{G.}%
+     {G.~S.}{G.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hagen}{H.}%
+     {C.~R.}{C.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kibble}{K.}%
+     {T.~W.}{T.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GGSHCRKTW1}
+  \strng{fullhash}{GGSHCRKTW1}
+  \field{pages}{20}
+  \field{volume}{\textbf{13}}
+  \field{journaltitle}{Phys. Rev. Lett.}
+  \field{year}{1964}
+\endentry
+
+\entry{SM_fit}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Baak}{B.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goebel}{G.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haller}{H.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hoecker}{H.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kennedy}{K.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kogler}{K.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moenig}{M.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schott}{S.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stelzer}{S.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BM+1}
+  \strng{fullhash}{BMGMHJHAKDKRMKSMSJ1}
+  \field{pages}{2205}
+  \field{volume}{\textbf{C72}}
+  \field{journaltitle}{Eur. Phys. J.}
+  \field{year}{2012}
+\endentry
+
+\entry{ATLAS_higgs}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{pages}{1}
+  \field{volume}{\textbf{B716}}
+  \field{journaltitle}{Phys. Lett.}
+  \field{year}{2012}
+\endentry
+
+\entry{CMS_higgs}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {CMS}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC1}
+  \strng{fullhash}{CC1}
+  \field{pages}{30}
+  \field{volume}{\textbf{B716}}
+  \field{journaltitle}{Phys. Lett.}
+  \field{year}{2012}
+\endentry
+
+\entry{fund_part_image}{misc}{}
+  \field{howpublished}{\url{https://commons.wikimedia.org/wiki/File:Elementary_particle_interactions_in_the_Standard_Model.png}}
+  \field{note}{Accessed: 2016-10-25}
+  \field{title}{{wikimedia} commons}
+\endentry
+
+\entry{renorm1}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hooft}{H.}%
+     {Gerard}{G.}%
+     {'t}{t.}%
+     {}{}}%
+  }
+  \strng{namehash}{HGt1}
+  \strng{fullhash}{HGt1}
+  \field{pages}{173\bibrangedash 199}
+  \field{volume}{\textbf{B33}}
+  \field{journaltitle}{Nucl. Phys.}
+  \field{year}{1971}
+\endentry
+
+\entry{renorm2}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hooft}{H.}%
+     {Gerard}{G.}%
+     {'t}{t.}%
+     {}{}}%
+  }
+  \strng{namehash}{HGt1}
+  \strng{fullhash}{HGt1}
+  \field{pages}{167\bibrangedash 188}
+  \field{volume}{\textbf{B35}}
+  \field{journaltitle}{Nucl. Phys.}
+  \field{year}{1971}
+\endentry
+
+\entry{renorm3}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hooft}{H.}%
+     {Gerard}{G.}%
+     {'t}{t.}%
+     {}{}}%
+    {{}%
+     {Veltman}{V.}%
+     {M.~J.~G.}{M.~J.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HGtVMJG1}
+  \strng{fullhash}{HGtVMJG1}
+  \field{pages}{189\bibrangedash 213}
+  \field{volume}{\textbf{B44}}
+  \field{journaltitle}{Nucl. Phys.}
+  \field{year}{1972}
+\endentry
+
+\entry{renorm4}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hooft}{H.}%
+     {Gerard}{G.}%
+     {'t}{t.}%
+     {}{}}%
+    {{}%
+     {Veltman}{V.}%
+     {M.~J.~G.}{M.~J.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HGtVMJG1}
+  \strng{fullhash}{HGtVMJG1}
+  \field{pages}{318\bibrangedash 353}
+  \field{volume}{\textbf{B50}}
+  \field{journaltitle}{Nucl. Phys.}
+  \field{year}{1972}
+\endentry
+
+\entry{mexican_hat}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Boer}{B.}%
+     {Wim}{W.}%
+     {de}{d.}%
+     {}{}}%
+  }
+  \strng{namehash}{BWd1}
+  \strng{fullhash}{BWd1}
+  \field{booktitle}{{Time and Matter 2013 (TAM2013) Venice, Italy}}
+  \field{year}{2013}
+\endentry
+
+\entry{schwartz}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schwartz}{S.}%
+     {M.D.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{SM1}
+  \strng{fullhash}{SM1}
+  \field{isbn}{9781107034730}
+  \field{title}{Quantum Field Theory and the Standard Model}
+  \field{year}{2014}
+\endentry
+
+\entry{LEP_tgc1}{article}{}
+  \true{moreauthor}
+  \name{author}{1}{}{%
+    {{}%
+     {Schael}{S.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SS+1}
+  \strng{fullhash}{SS+1}
+  \field{pages}{7\bibrangedash 26}
+  \field{volume}{\textbf{B614}}
+  \field{journaltitle}{Phys. Lett.}
+  \field{year}{2005}
+\endentry
+
+\entry{LEP_tgc2}{article}{}
+  \true{moreauthor}
+  \name{author}{1}{}{%
+    {{}%
+     {Achard}{A.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AP+1}
+  \strng{fullhash}{AP+1}
+  \field{pages}{151\bibrangedash 166}
+  \field{volume}{\textbf{B586}}
+  \field{journaltitle}{Phys. Lett.}
+  \field{year}{2004}
+\endentry
+
+\entry{LEP_tgc3}{article}{}
+  \true{moreauthor}
+  \name{author}{1}{}{%
+    {{}%
+     {Abbiendi}{A.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AG+1}
+  \strng{fullhash}{AG+1}
+  \field{pages}{463\bibrangedash 476}
+  \field{volume}{\textbf{C33}}
+  \field{journaltitle}{Eur. Phys. J.}
+  \field{year}{2004}
+\endentry
+
+\entry{LEP_tgc/qgc2}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bruneli{\`e}re}{B.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BR1}
+  \strng{fullhash}{BR1}
+  \field{pages}{s709\bibrangedash s713}
+  \field{volume}{\textbf{33}}
+  \field{journaltitle}{The European Physical Journal C - Particles and Fields}
+  \field{year}{2004}
+\endentry
+
+\entry{Tevatron_tgc1}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Petroff}{P.}%
+     {Pierre}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PP1}
+  \strng{fullhash}{PP1}
+  \field{pages}{14002}
+  \field{volume}{\textbf{49}}
+  \field{journaltitle}{EPJ Web Conf.}
+  \field{year}{2013}
+\endentry
+
+\entry{Tevatron_tgc2}{article}{}
+  \true{moreauthor}
+  \name{author}{1}{}{%
+    {{}%
+     {Abazov}{A.}%
+     {V.~M.}{V.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AVM+1}
+  \strng{fullhash}{AVM+1}
+  \field{pages}{053012}
+  \field{volume}{\textbf{D80}}
+  \field{journaltitle}{Phys. Rev.}
+  \field{year}{2009}
+\endentry
+
+\entry{Tevatron_tgc3}{article}{}
+  \true{moreauthor}
+  \name{author}{1}{}{%
+    {{}%
+     {Aaltonen}{A.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AT+1}
+  \strng{fullhash}{AT+1}
+  \field{pages}{031104}
+  \field{volume}{\textbf{D86}}
+  \field{journaltitle}{Phys. Rev.}
+  \field{year}{2012}
+\endentry
+
+\entry{LEP_qgc2}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ofierzynski}{O.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{OR1}
+  \strng{fullhash}{OR1}
+  \field{pages}{57 \bibrangedash  62}
+  \field{volume}{\textbf{109}}
+  \field{journaltitle}{Nuclear Physics B - Proceedings Supplements}
+  \field{year}{2002}
+\endentry
+
+\entry{LEP_qgc1}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Stirling}{S.}%
+     {W.~James}{W.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Werthenbach}{W.}%
+     {Anja}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SWJWA1}
+  \strng{fullhash}{SWJWA1}
+  \field{pages}{103\bibrangedash 110}
+  \field{volume}{\textbf{C14}}
+  \field{journaltitle}{Eur. Phys. J.}
+  \field{year}{2000}
+\endentry
+
+\entry{Tevatron_qgc2}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Eboli}{E.}%
+     {Oscar J.~P.}{O.~J.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gonzalez-Garcia}{G.-G.}%
+     {M.~C.}{M.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lietti}{L.}%
+     {S.~M.}{S.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Novaes}{N.}%
+     {S.~F.}{S.~F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{EOJP+1}
+  \strng{fullhash}{EOJPGGMCLSMNSF1}
+  \field{pages}{075008}
+  \field{volume}{\textbf{D63}}
+  \field{journaltitle}{Phys. Rev.}
+  \field{year}{2001}
+\endentry
+
+\entry{qgc_lhc1}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{pages}{141803}
+  \field{volume}{\textbf{113}}
+  \field{journaltitle}{Phys. Rev. Lett.}
+  \field{year}{2014}
+\endentry
+
+\entry{qgc_lhc2}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {CMS}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC1}
+  \strng{fullhash}{CC1}
+  \field{pages}{116}
+  \field{volume}{\textbf{07}}
+  \field{journaltitle}{JHEP}
+  \field{year}{2013}
+\endentry
+
+\entry{qgc_lhc3}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {CMS}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC1}
+  \strng{fullhash}{CC1}
+  \field{pages}{032008}
+  \field{volume}{\textbf{D90}}
+  \field{journaltitle}{Phys. Rev.}
+  \field{year}{2014}
+\endentry
+
+\entry{triboson1}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{pages}{141}
+  \field{volume}{\textbf{C77}}
+  \field{journaltitle}{Eur. Phys. J.}
+  \field{year}{2017}
+\endentry
+
+\entry{triboson2}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {CMS}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC1}
+  \strng{fullhash}{CC1}
+  \field{pages}{032008}
+  \field{volume}{\textbf{D90}}
+  \field{journaltitle}{Phys. Rev.}
+  \field{year}{2014}
+\endentry
+
+\entry{exclusive1}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {CMS}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC1}
+  \strng{fullhash}{CC1}
+  \field{pages}{116}
+  \field{volume}{\textbf{07}}
+  \field{journaltitle}{JHEP}
+  \field{year}{2013}
+\endentry
+
+\entry{exclusive2}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{pages}{032011}
+  \field{volume}{\textbf{D94}}
+  \field{journaltitle}{Phys. Rev.}
+  \field{year}{2016}
+\endentry
+
+\entry{ssWW}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{pages}{141803}
+  \field{volume}{\textbf{113}}
+  \field{journaltitle}{Phys. Rev. Lett.}
+  \field{year}{2014}
+\endentry
+
+\entry{ssWW_CMS}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {CMS}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC1}
+  \strng{fullhash}{CC1}
+  \field{pages}{051801}
+  \field{volume}{\textbf{114}}
+  \field{journaltitle}{Phys. Rev. Lett.}
+  \field{year}{2015}
+\endentry
+
+\entry{ssWW_CMS_Run2}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {CMS}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC1}
+  \strng{fullhash}{CC1}
+  \field{number}{CMS-PAS-SMP-17-004}
+  \verb{url}
+  \verb http://cds.cern.ch/record/2264525
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2017}
+\endentry
+
+\entry{Alboteanu}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Alboteanu}{A.}%
+     {Ana}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kilian}{K.}%
+     {Wolfgang}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reuter}{R.}%
+     {Juergen}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AAKWRJ1}
+  \strng{fullhash}{AAKWRJ1}
+  \field{pages}{010}
+  \field{volume}{\textbf{11}}
+  \field{journaltitle}{JHEP}
+  \field{year}{2008}
+\endentry
+
+\entry{ssWW_int_note}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATL-PHYS-INT-2014-035}
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2014}
+\endentry
+
+\entry{LHC}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Evans}{E.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {(Editors)}{E.}%
+     {P.~Bryant}{P.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ELEPB1}
+  \strng{fullhash}{ELEPB1}
+  \field{pages}{S08001}
+  \field{volume}{\textbf{3}}
+  \field{journaltitle}{JINST}
+  \field{year}{2008}
+\endentry
+
+\entry{vacuum}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Grobner}{G.}%
+     {O.}{O.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GO1}
+  \strng{fullhash}{GO1}
+  \field{pages}{3542}
+  \field{volume}{\textbf{C970512}}
+  \field{journaltitle}{Conf. Proc.}
+  \field{year}{1997}
+\endentry
+
+\entry{ATLAS}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{pages}{S08003}
+  \field{volume}{\textbf{3}}
+  \field{journaltitle}{JINST}
+  \field{year}{2008}
+\endentry
+
+\entry{CMS}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {CMS}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC1}
+  \strng{fullhash}{CC1}
+  \field{pages}{S08004}
+  \field{volume}{\textbf{3}}
+  \field{journaltitle}{JINST}
+  \field{year}{2008}
+\endentry
+
+\entry{LHCb}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {LHCb}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CL1}
+  \strng{fullhash}{CL1}
+  \field{pages}{S08005}
+  \field{volume}{\textbf{3}}
+  \field{journaltitle}{JINST}
+  \field{year}{2008}
+\endentry
+
+\entry{TOTEM}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {TOTEM}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CT1}
+  \strng{fullhash}{CT1}
+  \field{pages}{S08007}
+  \field{volume}{\textbf{3}}
+  \field{journaltitle}{JINST}
+  \field{year}{2008}
+\endentry
+
+\entry{ALICE}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ALICE}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA1}
+  \strng{fullhash}{CA1}
+  \field{pages}{S08002}
+  \field{volume}{\textbf{3}}
+  \field{journaltitle}{JINST}
+  \field{year}{2008}
+\endentry
+
+\entry{cryo}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Claudet}{C.}%
+     {S}{S}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lebrun}{L.}%
+     {Ph}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Serio}{S.}%
+     {L}{L}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tavian}{T.}%
+     {L}{L}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Van~Weelderen}{V.~W.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wagner}{W.}%
+     {U}{U}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CS+2}
+  \strng{fullhash}{CSLPSLTLVWRWU1}
+  \field{number}{LHC-PROJECT-Report-1171. CERN-LHC-PROJECT-Report-1171}
+  \verb{url}
+  \verb https://cds.cern.ch/record/1173062
+  \endverb
+  \field{year}{2008}
+\endentry
+
+\entry{lhc_injector_image}{misc}{}
+  \field{howpublished}{\url{http://te-epc-lpc.web.cern.ch/te-epc-lpc/machines/lhc/general.stm}}
+  \field{note}{Accessed: 2016-10-24}
+  \field{title}{{TE-EPC-LPC} in {LHC}}
+\endentry
+
+\entry{l1_trigger}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {CERN}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{series}{Technical Design Report ATLAS}
+  \verb{url}
+  \verb http://cds.cern.ch/record/381429
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{hlt}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {CERN}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{series}{Technical Design Report ATLAS}
+  \verb{url}
+  \verb http://cds.cern.ch/record/616089
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{PDG}{article}{}
+  \true{moreauthor}
+  \name{author}{1}{}{%
+    {{}%
+     {Olive}{O.}%
+     {K.~A.}{K.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{OKA+1}
+  \strng{fullhash}{OKA+1}
+  \field{pages}{090001}
+  \field{volume}{\textbf{C38}}
+  \field{journaltitle}{Chin. Phys.}
+  \field{year}{2014}
+\endentry
+
+\entry{ryan}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Atkin}{A.}%
+     {Ryan}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AR1}
+  \strng{fullhash}{AR1}
+  \field{pages}{012008}
+  \field{volume}{645}
+  \field{journaltitle}{Journal of Physics: Conference Series}
+  \field{year}{2015}
+\endentry
+
+\entry{kt}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Catani}{C.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dokshitzer}{D.}%
+     {Yuri~L.}{Y.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Seymour}{S.}%
+     {M.~H.}{M.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Webber}{W.}%
+     {B.~R.}{B.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CS+1}
+  \strng{fullhash}{CSDYLSMHWBR1}
+  \field{pages}{187\bibrangedash 224}
+  \field{volume}{\textbf{B406}}
+  \field{journaltitle}{Nucl. Phys.}
+  \field{year}{1993}
+\endentry
+
+\entry{cambridge-aachen}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {CMS}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC1}
+  \strng{fullhash}{CC1}
+  \field{number}{CMS-PAS-JME-09-001}
+  \verb{url}
+  \verb https://cds.cern.ch/record/1194489
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2009}
+\endentry
+
+\entry{anti-kt}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Cacciari}{C.}%
+     {Matteo}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salam}{S.}%
+     {Gavin~P.}{G.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Soyez}{S.}%
+     {Gregory}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CMSGPSG1}
+  \strng{fullhash}{CMSGPSG1}
+  \field{pages}{063}
+  \field{volume}{\textbf{04}}
+  \field{journaltitle}{JHEP}
+  \field{year}{2008}
+\endentry
+
+\entry{fastjet}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Cacciari}{C.}%
+     {Matteo}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salam}{S.}%
+     {Gavin~P.}{G.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Soyez}{S.}%
+     {Gregory}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CMSGPSG1}
+  \strng{fullhash}{CMSGPSG1}
+  \field{pages}{1896}
+  \field{volume}{\textbf{C72}}
+  \field{journaltitle}{Eur. Phys. J.}
+  \field{year}{2012}
+\endentry
+
+\entry{pizio_thesis}{thesis}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Pizio}{P.}%
+     {Caterina}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cavalli}{C.}%
+     {D}{D}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PCCD1}
+  \strng{fullhash}{PCCD1}
+  \verb{url}
+  \verb http://cds.cern.ch/record/1321175
+  \endverb
+  \field{type}{phdthesis}
+\endentry
+
+\entry{STACO}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Hassani}{H.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chevalier}{C.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lançon}{L.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Laporte}{L.}%
+     {J.-F.}{J.-F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nicolaidou}{N.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ouraou}{O.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HS+1}
+  \strng{fullhash}{HSCLLELJFNROA1}
+  \field{pages}{77 \bibrangedash  79}
+  \field{volume}{\textbf{572}}
+  \field{journaltitle}{Nuclear Instruments and Methods in Physics Research
+  Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}
+  \field{year}{2007}
+\endentry
+
+\entry{MuID}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Tarem}{T.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Panikashvili}{P.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TSPN1}
+  \strng{fullhash}{TSPN1}
+  \field{pages}{1304\bibrangedash 1309}
+  \field{title}{{Low momentum muon identification in the ATLAS detector at the
+  LHC}}
+  \field{volume}{\textbf{53}}
+  \field{journaltitle}{IEEE Trans. Nucl. Sci.}
+  \field{year}{2006}
+\endentry
+
+\entry{valerio_on_btagging}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATL-PHYS-PUB-2015-022}
+  \verb{url}
+  \verb https://cds.cern.ch/record/2037697
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2015}
+\endentry
+
+\entry{b_tagging_extra}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{pages}{P04008}
+  \field{volume}{\textbf{11}}
+  \field{journaltitle}{JINST}
+  \field{year}{2016}
+\endentry
+
+\entry{IP?D}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATLAS-CONF-2011-102}
+  \verb{url}
+  \verb https://cds.cern.ch/record/1369219
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2011}
+\endentry
+
+\entry{jetfitter}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {CERN}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{title}{{Expected performance of the ATLAS experiment: detector,
+  trigger and physics}}
+  \verb{url}
+  \verb https://cds.cern.ch/record/1125884
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{b-tagging_ref}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATL-PHYS-PUB-2016-012}
+  \verb{url}
+  \verb https://cds.cern.ch/record/2160731
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2016}
+\endentry
+
+\entry{MV1}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATLAS-CONF-2014-046}
+  \verb{url}
+  \verb https://cds.cern.ch/record/1741020
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2014}
+\endentry
+
+\entry{laplace}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Laplace}{L.}%
+     {Sandrine}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LS1}
+  \strng{fullhash}{LS1}
+  \field{howpublished}{\url{https://lpnhe.in2p3.fr/spip.php?action=acceder_document&arg=2952&cle=1dc8bdd31bd1da69ea56958adc2ba7dc3244e33d&file=pdf$\%$2Fhdr.pdf}}
+  \field{note}{Universit{\'e} Pierre et Marie Curie, 2015}
+\endentry
+
+\entry{laplace_21}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATL-LARG-PUB-2008-002. ATL-COM-LARG-2008-003}
+  \verb{url}
+  \verb https://cds.cern.ch/record/1099735
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2008}
+\endentry
+
+\entry{laplace_22}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Cacciari}{C.}%
+     {Matteo}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salam}{S.}%
+     {Gavin~P.}{G.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Soyez}{S.}%
+     {Gregory}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CMSGPSG1}
+  \strng{fullhash}{CMSGPSG1}
+  \field{pages}{1896}
+  \field{volume}{\textbf{72}}
+  \field{journaltitle}{The European Physical Journal C}
+  \field{year}{2012}
+\endentry
+
+\entry{laplace_23}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATLAS-CONF-2014-032}
+  \verb{url}
+  \verb https://cds.cern.ch/record/1706245
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{isolation_working_points}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATL-COM-PHYS-2017-290}
+  \verb{url}
+  \verb https://cds.cern.ch/record/2256658
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2017}
+\endentry
+
+\entry{MC_ref1}{article}{}
+  \true{moreauthor}
+  \name{author}{1}{}{%
+    {{}%
+     {Buckley}{B.}%
+     {Andy}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BA+1}
+  \strng{fullhash}{BA+1}
+  \field{pages}{145\bibrangedash 233}
+  \field{volume}{\textbf{504}}
+  \field{journaltitle}{Phys. Rept.}
+  \field{year}{2011}
+\endentry
+
+\entry{MC_ref2}{inproceedings}{}
+  \true{moreauthor}
+  \name{author}{1}{}{%
+    {{}%
+     {Dobbs}{D.}%
+     {M.~A.}{M.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DMA+1}
+  \strng{fullhash}{DMA+1}
+  \field{booktitle}{{Physics at TeV colliders. Proceedings, Workshop, Les
+  Houches, France, May 26-June 3, 2003}}
+  \field{pages}{411\bibrangedash 459}
+  \verb{url}
+  \verb http://lss.fnal.gov/cgi-bin/find_paper.pl?conf-04-183
+  \endverb
+  \field{year}{2004}
+\endentry
+
+\entry{MC_ref3}{article}{}
+  \name{author}{195}{}{%
+    {{}%
+     {Beringer}{B.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Arguin}{A.}%
+     {J.~F.}{J.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Barnett}{B.}%
+     {R.~M.}{R.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Copic}{C.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dahl}{D.}%
+     {O.}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Groom}{G.}%
+     {D.~E.}{D.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lin}{L.}%
+     {C.~J.}{C.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lys}{L.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Murayama}{M.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wohl}{W.}%
+     {C.~G.}{C.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yao}{Y.}%
+     {W.~M.}{W.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zyla}{Z.}%
+     {P.~A.}{P.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Amsler}{A.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Antonelli}{A.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Asner}{A.}%
+     {D.~M.}{D.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Baer}{B.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Band}{B.}%
+     {H.~R.}{H.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Basaglia}{B.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bauer}{B.}%
+     {C.~W.}{C.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Beatty}{B.}%
+     {J.~J.}{J.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belousov}{B.}%
+     {V.~I.}{V.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bergren}{B.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bernardi}{B.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bertl}{B.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bethke}{B.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bichsel}{B.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Biebel}{B.}%
+     {O.}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Blucher}{B.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Blusk}{B.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brooijmans}{B.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Buchmueller}{B.}%
+     {O.}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cahn}{C.}%
+     {R.~N.}{R.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Carena}{C.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ceccucci}{C.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chakraborty}{C.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chen}{C.}%
+     {M.~C.}{M.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chivukula}{C.}%
+     {R.~S.}{R.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cowan}{C.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {D'Ambrosio}{D.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Damour}{D.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Florian}{F.}%
+     {D.}{D.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Gouv\^ea}{G.}%
+     {A.}{A.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {DeGrand}{D.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jong}{J.}%
+     {P.}{P.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Dissertori}{D.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dobrescu}{D.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Doser}{D.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Drees}{D.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Edwards}{E.}%
+     {D.~A.}{D.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Eidelman}{E.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Erler}{E.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ezhela}{E.}%
+     {V.~V.}{V.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fetscher}{F.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fields}{F.}%
+     {B.~D.}{B.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Foster}{F.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gaisser}{G.}%
+     {T.~K.}{T.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Garren}{G.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gerber}{G.}%
+     {H.~J.}{H.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gerbier}{G.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gherghetta}{G.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Golwala}{G.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goodman}{G.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grab}{G.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gritsan}{G.}%
+     {A.~V.}{A.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grivaz}{G.}%
+     {J.~F.}{J.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gr\"unewald}{G.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gurtu}{G.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gutsche}{G.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haber}{H.}%
+     {H.~E.}{H.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hagiwara}{H.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hagmann}{H.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hanhart}{H.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hashimoto}{H.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hayes}{H.}%
+     {K.~G.}{K.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heffner}{H.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heltsley}{H.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hern\'andez-Rey}{H.-R.}%
+     {J.~J.}{J.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hikasa}{H.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {H\"ocker}{H.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Holder}{H.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Holtkamp}{H.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Huston}{H.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jackson}{J.}%
+     {J.~D.}{J.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Johnson}{J.}%
+     {K.~F.}{K.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Junk}{J.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Karlen}{K.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kirkby}{K.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klein}{K.}%
+     {S.~R.}{S.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klempt}{K.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kowalewski}{K.}%
+     {R.~V.}{R.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Krauss}{K.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kreps}{K.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Krusche}{K.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kuyanov}{K.}%
+     {Yu.~V.}{Y.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kwon}{K.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lahav}{L.}%
+     {O.}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Laiho}{L.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Langacker}{L.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liddle}{L.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ligeti}{L.}%
+     {Z.}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liss}{L.}%
+     {T.~M.}{T.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Littenberg}{L.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lugovsky}{L.}%
+     {K.~S.}{K.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lugovsky}{L.}%
+     {S.~B.}{S.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mannel}{M.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manohar}{M.}%
+     {A.~V.}{A.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marciano}{M.}%
+     {W.~J.}{W.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Martin}{M.}%
+     {A.~D.}{A.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Masoni}{M.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Matthews}{M.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Milstead}{M.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miquel}{M.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {M\"onig}{M.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moortgat}{M.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nakamura}{N.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Narain}{N.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nason}{N.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Navas}{N.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Neubert}{N.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nevski}{N.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nir}{N.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Olive}{O.}%
+     {K.~A.}{K.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pape}{P.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Parsons}{P.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Patrignani}{P.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peacock}{P.}%
+     {J.~A.}{J.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Petcov}{P.}%
+     {S.~T.}{S.~T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Piepke}{P.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pomarol}{P.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Punzi}{P.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Quadt}{Q.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Raby}{R.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Raffelt}{R.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ratcliff}{R.}%
+     {B.~N.}{B.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Richardson}{R.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Roesler}{R.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rolli}{R.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Romaniouk}{R.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rosenberg}{R.}%
+     {L.~J.}{L.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rosner}{R.}%
+     {J.~L.}{J.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sachrajda}{S.}%
+     {C.~T.}{C.~T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sakai}{S.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salam}{S.}%
+     {G.~P.}{G.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sarkar}{S.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sauli}{S.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schneider}{S.}%
+     {O.}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scholberg}{S.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scott}{S.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Seligman}{S.}%
+     {W.~G.}{W.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shaevitz}{S.}%
+     {M.~H.}{M.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sharpe}{S.}%
+     {S.~R.}{S.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Silari}{S.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sj\"ostrand}{S.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Skands}{S.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {J.~G.}{J.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smoot}{S.}%
+     {G.~F.}{G.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Spanier}{S.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Spieler}{S.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stahl}{S.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stanev}{S.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stone}{S.}%
+     {S.~L.}{S.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sumiyoshi}{S.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Syphers}{S.}%
+     {M.~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Takahashi}{T.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tanabashi}{T.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Terning}{T.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Titov}{T.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tkachenko}{T.}%
+     {N.~P.}{N.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {T\"ornqvist}{T.}%
+     {N.~A.}{N.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tovey}{T.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Valencia}{V.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bibber}{B.}%
+     {K.}{K.}%
+     {van}{v.}%
+     {}{}}%
+    {{}%
+     {Venanzoni}{V.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vincter}{V.}%
+     {M.~G.}{M.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vogel}{V.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vogt}{V.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Walkowiak}{W.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Walter}{W.}%
+     {C.~W.}{C.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ward}{W.}%
+     {D.~R.}{D.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Watari}{W.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Weiglein}{W.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Weinberg}{W.}%
+     {E.~J.}{E.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wiencke}{W.}%
+     {L.~R.}{L.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wolfenstein}{W.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Womersley}{W.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Woody}{W.}%
+     {C.~L.}{C.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Workman}{W.}%
+     {R.~L.}{R.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yamamoto}{Y.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zeller}{Z.}%
+     {G.~P.}{G.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zenin}{Z.}%
+     {O.~V.}{O.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhang}{Z.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhu}{Z.}%
+     {R.~Y.}{R.~Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Harper}{H.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lugovsky}{L.}%
+     {V.~S.}{V.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schaffner}{S.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BJ+1}
+  \strng{fullhash}{BJAJFBRMCKDOGDELCJLJMHWCGYWMZPAACAMADMBHBHRBTBCWBJJBVIBEBGBWBSBHBOBEBSBGBOCRNCMCACDCMCCRSCGDGDTFDdGAdDTJPdDGDBDMDMEDAESEJEVVFWFBDFBGTKGLGHJGGGTGSGMGCGAVGJFGMGAGTHHEHKHCHCHSHKGHMHBHRJJHKHAHJHAHJJJDJKFJTKDKDKSRKEKRVKFKMKBKYVKYLOLJLPLALZLTMLLLKSLSBMTMAV}
+  \field{pages}{010001}
+  \field{volume}{\textbf{86}}
+  \field{journaltitle}{Phys. Rev. D}
+  \field{year}{2012}
+\endentry
+
+\entry{schnoor_thesis}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schnoor}{S.}%
+     {Ulrike}{U.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SU1}
+  \strng{fullhash}{SU1}
+  \verb{url}
+  \verb https://cds.cern.ch/record/2000941
+  \endverb
+  \list{institution}{1}{%
+    {Dresden, Tech. U.}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2014-11-27}
+\endentry
+
+\entry{Seymour}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Seymour}{S.}%
+     {Michael~H.}{M.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marx}{M.}%
+     {Marilyn}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SMHMM1}
+  \strng{fullhash}{SMHMM1}
+  \field{booktitle}{{Proceedings, 69th Scottish Universities Summer School in
+  Physics : LHC Phenomenology (SUSSP69): St.Andrews, Scotland, August
+  19-September 1, 2012}}
+  \field{pages}{287\bibrangedash 319}
+  \verb{url}
+  \verb https://inspirehep.net/record/1229804/files/arXiv:1304.6677.pdf
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{Herwig}{article}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Corcella}{C.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knowles}{K.}%
+     {I.~G.}{I.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marchesini}{M.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moretti}{M.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Odagiri}{O.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Richardson}{R.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Seymour}{S.}%
+     {M.~H.}{M.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Webber}{W.}%
+     {B.~R.}{B.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CG+1}
+  \strng{fullhash}{CGKIGMGMSOKRPSMHWBR1}
+  \field{pages}{010}
+  \field{volume}{\textbf{01}}
+  \field{journaltitle}{JHEP}
+  \field{year}{2001}
+\endentry
+
+\entry{Powheg}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {S.~Frixione}{S.~F.}%
+     {P.~Nason}{P.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oleari}{O.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SFPNOC1}
+  \strng{fullhash}{SFPNOC1}
+  \field{pages}{070}
+  \field{volume}{\textbf{0711}}
+  \field{journaltitle}{JHEP}
+  \field{year}{2007}
+\endentry
+
+\entry{Pythia}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Sjostrand}{S.}%
+     {Torbjorn}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mrenna}{M.}%
+     {Stephen}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Skands}{S.}%
+     {Peter~Z.}{P.~Z.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{STMSSPZ1}
+  \strng{fullhash}{STMSSPZ1}
+  \field{pages}{852\bibrangedash 867}
+  \field{volume}{\textbf{178}}
+  \field{journaltitle}{Comput. Phys. Commun.}
+  \field{year}{2008}
+\endentry
+
+\entry{Sherpa}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {T.~Gleisberg}{T.~G.}%
+     {et~al.}{e.~a.}%
+     {}{}%
+     {S.~Hoeche}{S.~H.}}%
+  }
+  \strng{namehash}{TGSHea1}
+  \strng{fullhash}{TGSHea1}
+  \field{pages}{579}
+  \field{volume}{\textbf{22}}
+  \field{journaltitle}{Nucl. Phys.}
+  \field{year}{1961}
+\endentry
+
+\entry{Madgraph}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Alwall}{A.}%
+     {Johan}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Demin}{D.}%
+     {Pavel}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Visscher}{V.}%
+     {Simon}{S.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Frederix}{F.}%
+     {Rikkert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Herquet}{H.}%
+     {Michel}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maltoni}{M.}%
+     {Fabio}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Plehn}{P.}%
+     {Tilman}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rainwater}{R.}%
+     {David~L.}{D.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stelzer}{S.}%
+     {Tim}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AJ+1}
+  \strng{fullhash}{AJDPVSdFRHMMFPTRDLST1}
+  \field{pages}{028}
+  \field{volume}{\textbf{09}}
+  \field{journaltitle}{JHEP}
+  \field{year}{2007}
+\endentry
+
+\entry{GEANT}{article}{}
+  \true{moreauthor}
+  \name{author}{1}{}{%
+    {{}%
+     {Agostinelli}{A.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AS+1}
+  \strng{fullhash}{AS+1}
+  \field{pages}{250\bibrangedash 303}
+  \field{volume}{\textbf{A506}}
+  \field{journaltitle}{Nucl. Instrum. Meth.}
+  \field{year}{2003}
+\endentry
+
+\entry{MC2}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Mangano}{M.}%
+     {M.~L.}{M.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stelzer}{S.}%
+     {T.~J.}{T.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MMLSTJ1}
+  \strng{fullhash}{MMLSTJ1}
+  \field{pages}{555\bibrangedash 588}
+  \field{volume}{\textbf{55}}
+  \field{journaltitle}{Ann. Rev. Nucl. Part. Sci.}
+  \field{year}{2005}
+\endentry
+
+\entry{SHERPA_image}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {al.}{a.}%
+     {J.~Winter}{J.~W.}%
+     {et}{e.}%
+     {}{}}%
+  }
+  \strng{namehash}{aJWe1}
+  \strng{fullhash}{aJWe1}
+  \field{howpublished}{\url{
+  http://www.isgtw.org/feature/sherpa-and-open-science-grid-
+  predicting-emergence-jets}}
+  \field{note}{Accessed: 2017-07-23}
+\endentry
+
+\entry{string_model}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Andersson}{A.}%
+     {Bo}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mohanty}{M.}%
+     {Sandipan}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Soderberg}{S.}%
+     {Fredrik}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ABMSSF1}
+  \strng{fullhash}{ABMSSF1}
+  \field{pages}{631\bibrangedash 647}
+  \field{volume}{\textbf{C21}}
+  \field{journaltitle}{Eur. Phys. J.}
+  \field{year}{2001}
+\endentry
+
+\entry{cluster_model}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kupco}{K.}%
+     {Alexander}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KA1}
+  \strng{fullhash}{KA1}
+  \field{booktitle}{{Monte Carlo generators for HERA physics. Proceedings,
+  Workshop, Hamburg, Germany, 1998-1999}}
+  \field{pages}{292\bibrangedash 300}
+  \verb{url}
+  \verb https://inspirehep.net/record/484684/files/arXiv:hep-ph_9906412.pdf
+  \endverb
+  \field{year}{1998}
+\endentry
+
+\entry{YFS}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Yennie}{Y.}%
+     {D.~R.}{D.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Frautschi}{F.}%
+     {Steven~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Suura}{S.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{YDRFSCSH1}
+  \strng{fullhash}{YDRFSCSH1}
+  \field{pages}{379\bibrangedash 452}
+  \field{volume}{\textbf{13}}
+  \field{journaltitle}{Annals Phys.}
+  \field{year}{1961}
+\endentry
+
+\entry{geant_atlas}{misc}{}
+  \field{howpublished}{\url{http://geant4.web.cern.ch/geant4/gallery/}}
+  \field{note}{Accessed: 2017-03-13}
+  \field{title}{\textlcsc{Geant4} Picture Gallery}
+\endentry
+
+\entry{HEPMC}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Dobbs}{D.}%
+     {Matt}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hansen}{H.}%
+     {Jorgen~Beck}{J.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DMHJB1}
+  \strng{fullhash}{DMHJB1}
+  \field{pages}{41\bibrangedash 46}
+  \field{volume}{\textbf{134}}
+  \field{journaltitle}{Comput. Phys. Commun.}
+  \field{year}{2001}
+\endentry
+
+\entry{ATLAS_sim}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{pages}{823\bibrangedash 874}
+  \field{volume}{\textbf{C70}}
+  \field{journaltitle}{Eur. Phys. J.}
+  \field{year}{2010}
+\endentry
+
+\entry{brem}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Haug}{H.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nakel}{N.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HENW1}
+  \strng{fullhash}{HENW1}
+  \field{isbn}{9789814485197}
+  \field{series}{World Scientific Lecture Notes in Physics}
+  \field{title}{The Elementary Process of Bremsstrahlung}
+  \field{year}{2004}
+\endentry
+
+\entry{trigger}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATL-DAQ-PROC-2015-063}
+  \verb{url}
+  \verb https://cds.cern.ch/record/2111505
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2015}
+\endentry
+
+\entry{JetCorrection}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATL-PHYS-PUB-2015-015}
+  \verb{url}
+  \verb https://cds.cern.ch/record/2037613
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2015}
+\endentry
+
+\entry{OLR}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATL-PHYS-INT-2014-018}
+  \verb{url}
+  \verb https://cds.cern.ch/record/1743654
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{type}{techreport}
+  \field{year}{2014}
+\endentry
+
+\entry{jet_cleaning}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Collaboration}{C.}%
+     {ATLAS}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA2}
+  \strng{fullhash}{CA2}
+  \field{number}{ATLAS-CONF-2010-038}
+  \verb{url}
+  \verb https://cds.cern.ch/record/1277678
+  \endverb
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \list{institution}{1}{%
+    {CERN}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{CT10}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Lai}{L.}%
+     {Hung-Liang}{H.-L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Guzzi}{G.}%
+     {Marco}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Huston}{H.}%
+     {Joey}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {Zhao}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nadolsky}{N.}%
+     {Pavel~M.}{P.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pumplin}{P.}%
+     {Jon}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yuan}{Y.}%
+     {C.~P.}{C.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LHL+1}
+  \strng{fullhash}{LHLGMHJLZNPMPJYCP1}
+  \field{pages}{074024}
+  \field{volume}{\textbf{D82}}
+  \field{journaltitle}{Phys. Rev.}
+  \field{year}{2010}
+\endentry
+
+\entry{lyons}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lyons}{L.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{LL1}
+  \strng{fullhash}{LL1}
+  \field{isbn}{9780521255400}
+  \field{title}{Statistics for Nuclear and Particle Physicists}
+  \field{year}{1986}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

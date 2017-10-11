@@ -1,0 +1,179 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Illustration of the fundamental particles described by the Standard Model, showing how they interact amongst each other and sometimes themselves. \cite {fund_part_image}\relax }}{3}{figure.caption.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2}{\ignorespaces Illustration of the Higgs potential. Note that it has a local maximum at the origin and a continuous ring of minima. \cite {mexican_hat}\relax }}{5}{figure.caption.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3}{\ignorespaces Feynman diagrams for triple and quartic gauge couplings amongst electroweak gauge bosons. The non-abelian nature of the electroweak force predicts that the gauge bosons can have self-interactions. There are, however, no neutral self-interactions.\relax }}{7}{figure.caption.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4}{\ignorespaces Three possible processes for investigating QGCs: at the top on the left, tri-boson production; on the top right, exclusive VV production; and at the bottom, vector boson scattering.\relax }}{8}{figure.caption.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5}{\ignorespaces Leading-order Feynman diagrams for $WW \DOTSB \relbar \joinrel \rightarrow WW$ in the absence of a light SM Higgs-boson.\relax }}{9}{figure.caption.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6}{\ignorespaces Longitudinally polarised $VV \DOTSB \relbar \joinrel \rightarrow VV$ cross-section (in nanobarns) behaviour with $\sqrt {s}$ for four different vector boson scattering processes in the absence of a Higgs-boson. Note that unitarity is violated at approximately 1 TeV. \cite {Alboteanu}\relax }}{9}{figure.caption.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7}{\ignorespaces Leading-order Feynman diagrams for $WW \DOTSB \relbar \joinrel \rightarrow WW$ with a light SM Higgs-boson.\relax }}{9}{figure.caption.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {8}{\ignorespaces Longitudinally polarised $VV \DOTSB \relbar \joinrel \rightarrow VV$ cross-section behaviour with $\sqrt {s}$ for four different vector boson scattering processes assuming a SM-like Higgs-boson of $120$ GeV mass. The inclusion of the Higgs-boson restores reasonable behaviour of the cross-sections. \cite {Alboteanu}\relax }}{10}{figure.caption.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {9}{\ignorespaces Examples of non-VBS electroweak processes with WWjj final state.\relax }}{10}{figure.caption.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {10}{\ignorespaces Examples of QCD processes with $WWjj$ final state. Can be suppressed by topological cuts.\relax }}{11}{figure.caption.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11}{\ignorespaces Leading-order gluon-gluon $WW$ production. Only possible in the opposite-sign case.\relax }}{11}{figure.caption.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12}{\ignorespaces An illustration of the VBS event topology. Note the charged leptons from the W decay (1,2) and the forward tagging jets (3,4). The invisible neutrinos escape, detectable only through their missing transverse energy. Modified from an image in \cite {ssWW_int_note}.\relax }}{12}{figure.caption.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {13}{\ignorespaces Leading-order Feynman diagrams for same-sign W-boson scattering that do not involve a Higgs-boson. Note that the $t$ (left) and $u$ (middle) channel diagrams involve TGCs while the remaining (right) one involves a QGC.\relax }}{13}{figure.caption.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {14}{\ignorespaces Leading-order Feynman diagrams for same-sign W-boson scattering that involve a Higgs-boson. The $t$-channel diagram is on the left while the $u$-channel diagram is on the right\relax }}{15}{figure.caption.19}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {15}{\ignorespaces Illustration of the LHC's injector chain. \cite {lhc_injector_image}\relax }}{18}{figure.caption.20}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {16}{\ignorespaces A cut-away view of the ATLAS detector with its dimensions and some selected components labelled. \cite {ATLAS}\relax }}{20}{figure.caption.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {17}{\ignorespaces The superconducting solenoid after completion of the coil winding, prior to installation. \cite {ATLAS}\relax }}{21}{figure.caption.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {18}{\ignorespaces Geometry of the eight barrel toroid coils and the end-cap toroid coils. \cite {ATLAS}\relax }}{21}{figure.caption.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {19}{\ignorespaces Illustration showing the path of a charged particle through the various layers of sub-detectors that make up the ID in the barrel region. The track passes the three cylindrical layers of the pixel layers, the four cylindrical double layers of the SCT, and finally around 36 axial straws. \cite {ATLAS}\relax }}{22}{figure.caption.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {20}{\ignorespaces Illustration showing a cut-away view of the ATLAS detector's calorimetry system. \cite {ATLAS}\relax }}{25}{figure.caption.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {21}{\ignorespaces Illustration of an ECal barrel module showing its full azimuthal design. $X_{0}$ is the radiation length. \cite {ATLAS}\relax }}{27}{figure.caption.27}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {22}{\ignorespaces An illustration of an event where a prompt electron and a non-prompt muon, coming from a jet, fake a same-sign W-boson scattering event. Since the non-prompt muon is from a jet it is less likely to be isolated than than if it were prompt. Modified from \cite {ssWW_int_note}.\relax }}{43}{figure.caption.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {23}{\ignorespaces An illustration of how the \textbf {topoetcone} variable is constructed. The grid in $\eta - \phi $ space represents the middle calorimeter cells. At the centre of the cone lies the incident lepton/photon. The topological clusters (coloured orange) are included in the calculation if their barycentre lies within the cone. The white $5 \times 7$ rectangle represents the cells subtracted in the calculation when using the \textbf {core57cells} technique. Modified from \cite {laplace}.\relax }}{44}{figure.caption.30}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {24}{\ignorespaces Illustration of the levels used in describing MC simulated high-energy collisions in the ATLAS detector. \cite {schnoor_thesis}\relax }}{48}{figure.caption.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {25}{\ignorespaces An illustration of the factorisation theorem, showing how to the cross-section of a hadronic collision can be separated into a short distance part (where perturbative QCD is applicable) and a long distance part (where non-perturbative QCD must be used). \cite {schnoor_thesis}\relax }}{49}{figure.caption.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {26}{\ignorespaces An illustration of a \textsc {Sherpa} generated event simulation. The hard interaction is shown in red, the partonic shower products in blue, the hadronised partons in green, hadronic decays in dark green, and the QED radiation in yellow. Note also the presence of the underlying event, coloured purple. \cite {SHERPA_image}\relax }}{50}{figure.caption.34}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {27}{\ignorespaces GEANT4-created visualisation of the ATLAS detector. \cite {geant_atlas}\relax }}{52}{figure.caption.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {28}{\ignorespaces An illustration showing the ATLAS simulation chain. The boxes with the rounded corners represent persistent data objects, while those with sharp corners represent algorithms or applications. Optional algorithms have boxes made of dashed lines. \cite {ATLAS_sim}\relax }}{54}{figure.caption.36}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {29}{\ignorespaces Feynman diagram for a semi-leptonic $t\mathaccentV {bar}016{t}$ decay. In same-sign W-boson scattering such processes can contribute to the fake lepton background if one of the resulting jet is misreconstructed as a lepton of the same-sign as the other reconstructed lepton.\relax }}{61}{figure.caption.41}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {30}{\ignorespaces The significance at each multivariate $b$-tagger working point as well as the significance at $0\%$ (which corresponds to not using a $b$-jet veto at all). Lepton candidates were required to pass the \textit {Gradient} isolation requirement.\relax }}{66}{figure.caption.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {31}{\ignorespaces The significance at each multivariate $b$-tagger working point as well as the significance at $0\%$ (which corresponds to not using a $b$-jet veto at all). No isolation selection requirements were imposed on the lepton candidates.\relax }}{67}{figure.caption.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {32}{\ignorespaces Two distinct artificial experimental setups, with the corresponding cumulative significances plotted below. Note the distinctive peak near $x=6$, indicating the optimal cut location.\relax }}{69}{figure.caption.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {33}{\ignorespaces Two distinct artificial experimental setups, with the corresponding cumulative significances plotted below. Note the rapid increase near $x=20$, indicating the optimal cut location.\relax }}{70}{figure.caption.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {34}{\ignorespaces Comparison of the \textbf {topoetcone30}-obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation selection requirement (dashed lines) and for the case where the leptons are not required to pass any isolation selection requirement (solid lines).\relax }}{73}{figure.caption.49}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {35}{\ignorespaces Comparison of the \textbf {fractional-topoetcone30}-obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation selection requirement (dashed lines) and for the case where the leptons are not required to pass any isolation selection requirement (solid lines).\relax }}{74}{figure.caption.50}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {36}{\ignorespaces Comparison of the \textbf {ptvarcone30}-obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation selection requirement (dashed lines) and for the case where the leptons are not required to pass any isolation selection requirement (solid lines).\relax }}{75}{figure.caption.51}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {37}{\ignorespaces Comparison of the \textbf {fractional-ptvarcone30}-obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation selection requirement (dashed lines) and for the case where the leptons are not required to pass any isolation selection requirement (solid lines).\relax }}{76}{figure.caption.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {38}{\ignorespaces Histogram of the lepton invariant mass ($ee$ channel). The corresponding cumulative significance curve is plotted below.\relax }}{78}{figure.caption.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {39}{\ignorespaces Histogram of the lepton invariant mass ($e \mu + \mu e$ channel). The corresponding cumulative significance curve is plotted below.\relax }}{78}{figure.caption.54}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {40}{\ignorespaces Histogram of the lepton invariant mass ($\mu \mu $ channel). The corresponding cumulative significance curve is plotted below.\relax }}{79}{figure.caption.55}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {41}{\ignorespaces Histogram of the jet invariant mass ($ee$ channel). The corresponding cumulative significance curve is plotted below.\relax }}{79}{figure.caption.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {42}{\ignorespaces Histogram of the jet invariant mass ($e \mu + \mu e$ channel). The corresponding cumulative significance curve is plotted below.\relax }}{80}{figure.caption.57}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {43}{\ignorespaces Histogram of the jet invariant mass ($\mu \mu $ channel). The corresponding cumulative significance curve is plotted below.\relax }}{80}{figure.caption.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {44}{\ignorespaces Histogram of the jet separation rapidity ($ee$ channel). The corresponding cumulative significance curve is plotted below.\relax }}{81}{figure.caption.59}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {45}{\ignorespaces Histogram of the jet separation rapidity ($e \mu + \mu e$ channel). The corresponding cumulative significance curve is plotted below.\relax }}{81}{figure.caption.60}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {46}{\ignorespaces Histogram of the jet separation rapidity ($\mu \mu $ channel). The corresponding cumulative significance curve is plotted below.\relax }}{82}{figure.caption.61}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {47}{\ignorespaces Histograms of \textbf {topoetcone30} for the leading (a) and sub-leading (b) $ee$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{89}{figure.caption.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {48}{\ignorespaces Histograms of \textbf {topoetcone30} for the leading (a) and sub-leading (b) $e\mu +\mu e$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{90}{figure.caption.63}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {49}{\ignorespaces Histograms of \textbf {topoetcone30} for the leading (a) and sub-leading (b) $\mu \mu $-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{91}{figure.caption.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {50}{\ignorespaces Histograms of \textbf {fractional-topoetcone30} for the leading (a) and sub-leading (b) $ee$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{92}{figure.caption.65}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {51}{\ignorespaces Histograms of \textbf {fractional-topoetcone30} for the leading (a) and sub-leading (b) $e\mu +\mu e$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{93}{figure.caption.66}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {52}{\ignorespaces Histograms of \textbf {fractional-topoetcone30} for the leading (a) and sub-leading (b) $\mu \mu $-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{94}{figure.caption.67}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {53}{\ignorespaces Histograms of \textbf {topoetcone30} for the leading (a) and sub-leading (b) $ee$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{95}{figure.caption.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {54}{\ignorespaces Histograms of \textbf {topoetcone30} for the leading (a) and sub-leading (b) $e\mu +\mu e$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{96}{figure.caption.69}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {55}{\ignorespaces Histograms of \textbf {topoetcone30} for the leading (a) and sub-leading (b) $\mu \mu $-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{97}{figure.caption.70}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {56}{\ignorespaces Histograms of \textbf {fractional-topoetcone30} for the leading (a) and sub-leading (b) $ee$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{98}{figure.caption.71}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {57}{\ignorespaces Histograms of \textbf {fractional-topoetcone30} for the leading (a) and sub-leading (b) $e\mu +\mu e$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{99}{figure.caption.72}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {58}{\ignorespaces Histograms of \textbf {fractional-topoetcone30} for the leading (a) and sub-leading (b) $\mu \mu $-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{100}{figure.caption.73}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {59}{\ignorespaces Histograms of \textbf {ptvarcone30} for the leading (a) and sub-leading (b) $ee$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{101}{figure.caption.74}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {60}{\ignorespaces Histograms of \textbf {ptvarcone30} for the leading (a) and sub-leading (b) $e\mu + \mu e$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{102}{figure.caption.75}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {61}{\ignorespaces Histograms of \textbf {ptvarcone30} for the leading (a) and sub-leading (b) $\mu \mu $-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{103}{figure.caption.76}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {62}{\ignorespaces Histograms of \textbf {fractional-ptvarcone30} for the leading (a) and sub-leading (b) $ee$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{104}{figure.caption.77}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {63}{\ignorespaces Histograms of \textbf {fractional-ptvarcone30} for the leading (a) and sub-leading (b) $e\mu +\mu e$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{105}{figure.caption.78}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {64}{\ignorespaces Histograms of \textbf {fractional-ptvarcone30} for the leading (a) and sub-leading (b) $\mu \mu $-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are required to pass the \textit {Gradient} isolation requirement. Overflow contained in terminating bin.\relax }}{106}{figure.caption.79}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {65}{\ignorespaces Histograms of \textbf {ptvarcone30} for the leading (a) and sub-leading (b) $ee$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{107}{figure.caption.80}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {66}{\ignorespaces Histograms of \textbf {ptvarcone30} for the leading (a) and sub-leading (b) $e\mu +\mu e$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{108}{figure.caption.81}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {67}{\ignorespaces Histograms of \textbf {ptvarcone30} for the leading (a) and sub-leading (b) $\mu \mu $-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{109}{figure.caption.82}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {68}{\ignorespaces Histograms of \textbf {fractional-ptvarcone30} for the leading (a) and sub-leading (b) $ee$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{110}{figure.caption.83}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {69}{\ignorespaces Histograms of \textbf {fractional-ptvarcone30} for the leading (a) and sub-leading (b) $e\mu +\mu e$-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{111}{figure.caption.84}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {70}{\ignorespaces Histograms of \textbf {fractional-ptvarcone30} for the leading (a) and sub-leading (b) $\mu \mu $-channel leptons. The corresponding plots of the cumulative significance are displayed below each histogram. The leptons are not subjected to any isolation requirement. Overflow contained in terminating bin.\relax }}{112}{figure.caption.85}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {71}{\ignorespaces Comparison of the \textbf {topoetcone20} obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation requirement (dashed lines) and for the case where the leptons are not required to pass any isolation requirement (solid lines).\relax }}{115}{figure.caption.86}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {72}{\ignorespaces Comparison of the \textbf {fractional-topoetcone20} obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation requirement (dashed lines) and for the case where the leptons are not required to pass any isolation requirement (solid lines).\relax }}{116}{figure.caption.87}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {73}{\ignorespaces Comparison of the \textbf {ptvarcone20} obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation requirement (dashed lines) and for the case where the leptons are not required to pass any isolation requirement (solid lines).\relax }}{117}{figure.caption.88}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {74}{\ignorespaces Comparison of the \textbf {fractional-ptvarcone20} obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation requirement (dashed lines) and for the case where the leptons are not required to pass any isolation requirement (solid lines).\relax }}{118}{figure.caption.89}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {75}{\ignorespaces Comparison of the \textbf {topoetcone40} obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation requirement (dashed lines) and for the case where the leptons are not required to pass any isolation requirement (solid lines).\relax }}{119}{figure.caption.90}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {76}{\ignorespaces Comparison of the \textbf {fractional-topoetcone40} obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation requirement (dashed lines) and for the case where the leptons are not required to pass any isolation requirement (solid lines).\relax }}{120}{figure.caption.91}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {77}{\ignorespaces Comparison of the \textbf {ptvarcone40} obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation requirement (dashed lines) and for the case where the leptons are not required to pass any isolation requirement (solid lines).\relax }}{121}{figure.caption.92}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {78}{\ignorespaces Comparison of the \textbf {fractional-ptvarcone40} obtained cumulative significances for the leading (a) and sub-leading (b) lepton candidates; obtained for the case of requiring the leptons to pass the \textit {Gradient} isolation requirement (dashed lines) and for the case where the leptons are not required to pass any isolation requirement (solid lines).\relax }}{122}{figure.caption.93}

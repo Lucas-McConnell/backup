@@ -1,0 +1,86 @@
+%\texttt{•}\documentclass[12pt]{ociamthesis}  % default square logo 
+\documentclass[12pt]{ociamthesis}  % default square logo 
+%\documentclass[12pt,beltcrest]{ociamthesis} % use old belt crest logo
+%\documentclass[12pt,shieldcrest]{ociamthesis} % use older shield crest logo
+
+%load any additional packages
+\usepackage{color}
+\usepackage{url}
+\usepackage{amssymb}
+\usepackage{fullpage}
+\usepackage[colorlinks]{hyperref}
+\usepackage{chngcntr}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{upgreek}
+\usepackage{amsmath}
+\usepackage{commath}
+\usepackage{verbatim}
+\usepackage[section]{placeins}
+\usepackage{booktabs}
+
+\usepackage[style=numeric, backend=bibtex, sorting=none]{biblatex}
+\renewbibmacro{in:}{}
+\addbibresource{refs.bib}
+
+\counterwithout{figure}{chapter}
+
+%input macros (i.e. write your own macros file called mymacros.tex 
+%and uncomment the next line)
+%\include{mymacros}
+\newcommand\textlcsc[1]{\textsc{\MakeLowercase{#1}}}
+\title{Suppression of the Fake Lepton Background in Same-Sign W-boson Scattering with the ATLAS Experiment}   %note \\[1ex] is a line break in the title
+%\author{Lucas Henry McConnell \\ [0.225cm]{\small Advisors:  Dr A. Hamilton and Dr S. Yacoob}} %your name
+\author{Lucas Henry McConnell\\ \small Supervisors: Dr A. Hamilton and Dr S. Yacoob} %your name
+\college{University of Cape Town} %your college
+
+%\renewcommand{\submittedtext}{change the default text here if needed}
+\degree{Master of Science (Physics)}     %the degree
+\degreedate{2017}         %the degree date
+
+%end the preamble and start the document
+\begin{document}
+%this baselineskip gives sufficient line spacing for an examiner to easily
+%markup the thesis with comments
+\baselineskip=18pt plus1pt
+ %set the number of sectioning levels that get number and appear in the contents
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
+\maketitle                  % create a title page from the preamble info
+\include{dedication}        % include a dedication.tex file
+\include{acknowledgements}   % include an acknowledgements.tex file
+\include{abstract}          % include the abstract
+
+\begin{romanpages}          % start roman page numbering
+\tableofcontents            % generate and include a table of contents
+\listoffigures              % generate and include a list of figures
+\end{romanpages}            % end roman page numbering
+
+%now include the files of latex for each of the chapters etc
+\include{chapters/chapter1}
+\include{chapters/chapter2}
+\include{chapters/chapter3}
+\include{chapters/chapter4}
+\include{chapters/chapter5} 
+\include{chapters/chapter6}
+\include{chapters/chapter7}
+\include{conclusions}
+
+%now enable appendix numbering format and include any appendices
+\appendix
+\include{appendix1}
+\include{appendix2}
+\include{appendix3}
+
+%next line adds the Bibliography to the contents page
+%\addcontentsline{toc}{chapter}{Bibliography}
+\printbibliography
+%uncomment next line to change bibliography name to references
+%\renewcommand{\bibname}{References}
+%\bibliography{refs}        %use a bibtex bibliography file refs.bib
+%\bibliographystyle{plain}  %use the plain bibliography style
+%\bibliographystyle{unsrt}
+%\bibliographystyle{biblatex}
+
+\end{document}

@@ -1,0 +1,83 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: dedication.aux
+A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: chapters/chapter1.aux
+A level-1 auxiliary file: chapters/chapter2.aux
+A level-1 auxiliary file: chapters/chapter3.aux
+A level-1 auxiliary file: chapters/chapter4.aux
+A level-1 auxiliary file: chapters/chapter5.aux
+A level-1 auxiliary file: chapters/chapter6.aux
+A level-1 auxiliary file: chapters/chapter7.aux
+A level-1 auxiliary file: conclusions.aux
+A level-1 auxiliary file: appendix1.aux
+A level-1 auxiliary file: appendix2.aux
+A level-1 auxiliary file: appendix3.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 18483 items from 5000.
+Database file #1: main-blx.bib
+Database file #2: refs.bib
+Biblatex version: 3.3
+Warning--you've exceeded 250, the entry-string-size, for entry MC_ref3
+while executing--line 2513 of file biblatex.bst
+*Please notify the bibstyle designer*
+Warning--you've exceeded 250, the entry-string-size, for entry MC_ref3
+while executing--line 2541 of file biblatex.bst
+*Please notify the bibstyle designer*
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 97 entries,
+            6047 wiz_defined-function locations,
+            1582 strings with 19248 characters,
+and the built_in function-call counts, 294335 in all, are:
+= -- 10747
+> -- 10070
+< -- 1898
++ -- 3247
+- -- 3884
+* -- 23202
+:= -- 18265
+add.period$ -- 0
+call.type$ -- 97
+change.case$ -- 875
+chr.to.int$ -- 35
+cite$ -- 192
+duplicate$ -- 34817
+empty$ -- 31773
+format.name$ -- 7862
+if$ -- 65026
+int.to.chr$ -- 0
+int.to.str$ -- 302
+missing$ -- 0
+newline$ -- 3015
+num.names$ -- 4140
+pop$ -- 31719
+preamble$ -- 1
+purify$ -- 1354
+quote$ -- 0
+skip$ -- 16930
+stack$ -- 0
+substring$ -- 3896
+swap$ -- 10814
+text.length$ -- 2011
+text.prefix$ -- 7
+top$ -- 1
+type$ -- 3658
+warning$ -- 0
+while$ -- 1580
+width$ -- 0
+write$ -- 2917
+(There were 2 warnings)
