@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: saip_proceedings.aux
+The style file: plain.bst
+Database file #1: saip_proceedings.bib
+Warning--empty publisher in Voss:2009zz
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            525 strings with 4596 characters,
+and the built_in function-call counts, 1130 in all, are:
+= -- 105
+> -- 41
+< -- 0
++ -- 16
+- -- 12
+* -- 77
+:= -- 200
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 46
+empty$ -- 101
+format.name$ -- 12
+if$ -- 231
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 4
+newline$ -- 23
+num.names$ -- 9
+pop$ -- 15
+preamble$ -- 1
+purify$ -- 13
+quote$ -- 0
+skip$ -- 30
+stack$ -- 0
+substring$ -- 74
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 14
+warning$ -- 1
+while$ -- 11
+width$ -- 5
+write$ -- 44
+(There was 1 warning)
